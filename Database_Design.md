@@ -1,0 +1,12 @@
+companies
+branches
+users
+roles
+permissions
+customers
+documents
+document_templates
+journal_entries
+transactions
+audit_logs
+subscriptions
